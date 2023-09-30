@@ -1,7 +1,5 @@
 <h1 align="center">Hey there👋, I'm Gunjeet Nimbalkar</h1>
 <h3 align="center">A DEV Pursuing a Bachelors Degree in CSE.</h3>
-![Github GIF](./profile.gif)
-
 
                      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjeetnimbalkar&label=Profile%20views&color=0e75b6&style=flat" alt="gunjeetnimbalkar" /> </p>
