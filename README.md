@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋, I'm Gunjeet Nimbalkar</h1>
 <h3 align="center">A DEV Pursuing a Bachelors Degree in CSE.</h3>
-<p align="center"> <img src="https://github.com/GunjeetNimbalkar/GunjeetNimbalkar/blob/master/profile.gif" width="40%" height="40%" alt="gunjeetnimbalkar" /> </p>
+![Animated Cat](https://raw.githubusercontent.com/gist/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif)
 
 
                      
