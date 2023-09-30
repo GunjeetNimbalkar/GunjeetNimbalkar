@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋, I'm Gunjeet Nimbalkar</h1>
 <h3 align="center">A DEV Pursuing a Bachelors Degree in CSE.</h3>
-![Github GIF](./blob/master/profile.gif)
+![Github GIF](./profile.gif)
 
 
                      
