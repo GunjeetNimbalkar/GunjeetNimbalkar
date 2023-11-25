@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gunjeetnimbalkar@gmail.com**
 
-- ⚡ Fun fact **I'm a lazy learner ... Not Really ! :sweat_smile:**
+- ⚡ Strength **I'm a self learner ; Strives to improve from my past mistakes ! :sweat_smile:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
