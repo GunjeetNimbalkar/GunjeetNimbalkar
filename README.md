@@ -1,14 +1,14 @@
 <h1 align="center">Hey there👋, I'm Gunjeet Nimbalkar</h1>
-<h3 align="center">A DEV Pursuing a Bachelors Degree in CSE.</h3>
+<h3 align="center">Currently working in Cognizant as QE.</h3>
 
                      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjeetnimbalkar&label=Profile%20views&color=0e75b6&style=flat" alt="gunjeetnimbalkar" /> </p>
 
-- 📖	Student at **SVVV, Indore**
+- 📖	QE at **Cognizant, Coimbatore**
 
-- 👨‍💻	Pursuing **B.Tech in CSE**
+- 👨‍💻	Graduated **B.Tech in CSE**
                      
-- 🌱 I’m currently learning **React,MongoDB,Javascript.**
+- 🌱 I’m currently learning **Selenium,Devops**
 
 - 💬 Ask me about **ReactJS, CSS, HTML...**
 
