@@ -4,13 +4,13 @@
                      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjeetnimbalkar&label=Profile%20views&color=0e75b6&style=flat" alt="gunjeetnimbalkar" /> </p>
 
-- 📖	QE at **Cognizant, Coimbatore**
+- 📖	QE at **Cognizant, Chennai**
 
 - 👨‍💻	Graduated **B.Tech in CSE**
                      
 - 🌱 I’m currently learning **Selenium,Devops**
 
-- 💬 Ask me about **ReactJS, CSS, HTML...**
+- 💬 Ask me about **ReactJS, CSS, HTML, Java, Selenium...**
 
 - 📫 How to reach me **gunjeetnimbalkar@gmail.com**
 
